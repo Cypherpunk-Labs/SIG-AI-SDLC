@@ -60,3 +60,24 @@ Would you like me to create a detailed workflow for a specific Agentic SDLC role
 [The Agentic Era](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DFqS_vj7-jYI)
 
 This video provides an excellent high-level overview of how agentic workflows are replacing traditional software development patterns, aligning with the shift from reactive tools to proactive "digital co-workers."
+
+
+
+# Appendix
+
+- https://github.com/coleam00/habit-tracker/blob/main/Top1%25AgenticEngineering.png
+
+[chat01_learning_paths](chat01.md)
+
+'''
+Test-Driven Development (TDD) for AI applies the traditional "Red, Green, Refactor" cycle to AI development, using automated tests to guide the creation of reliable AI agents, ensuring they meet functional specs, reducing errors, and improving code quality by having the AI test its own generated code or using AI to help write tests for human-coded AI features, making development faster and more robust. It involves writing failing tests first (Red), writing minimal code to pass them (Green), and then cleaning up (Refactor), with GenAI assisting in generating code, stubs, or even feedback loops. 
+'''
+
+- https://github.com/cloudwego/eino
+
+[chat02](chat02.md)
+
+[chat03](chat03.md)
+
+[chat04](chat04.md)
+
