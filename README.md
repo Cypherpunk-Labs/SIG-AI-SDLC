@@ -71,6 +71,9 @@ This video provides an excellent high-level overview of how agentic workflows ar
 
 - https://github.com/coleam00/habit-tracker/blob/main/Top1%25AgenticEngineering.png
 - https://github.com/humanlayer/12-factor-agents
+- https://github.com/code-yeongyu/oh-my-opencode
+- https://github.com/mitkox/ai-coding-factory
+- https://monthofaibugs.com/
 
 
 ---
