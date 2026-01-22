@@ -65,8 +65,12 @@ This video provides an excellent high-level overview of how agentic workflows ar
 
 # Appendix
 
-- https://github.com/coleam00/habit-tracker/blob/main/Top1%25AgenticEngineering.png
+- [ ] TODO: get an agent to mine more data and update this doc and make it better.
 
+## interesting links and concepts. 
+
+- https://github.com/coleam00/habit-tracker/blob/main/Top1%25AgenticEngineering.png
+- https://github.com/humanlayer/12-factor-agents
 
 
 ---
